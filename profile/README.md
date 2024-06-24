@@ -1,4 +1,4 @@
-![](https://github.com/Hanz-Codes/.github/blob/main/profile/banner.png)
+![banner](https://github.com/Hanz-Codes/.github/blob/main/profile/banner.png)
 # 💫 About Me:
 <br>🔭 Jasa Joki Tugas Kuliah dan Sekolah
 <br>👯 Joki Website
@@ -21,6 +21,8 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+### 🌱 Resume
+![resume](https://github.com/Hanz-Codes/.github/blob/main/profile/resume.png)
 ---
 [![](https://visitcount.itsvg.in/api?id=Hanz-Code&icon=1&color=0)](https://visitcount.itsvg.in)
 
